@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(240, 115, 115);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 30%;
+    background-color: pink;
+    padding: 20px;
+    text-align: center;
+    margin-left: 420px;
+    margin-top: 130px;
+    border-radius: 10px;
+}
+.p1{
+       font-family: cursive;
+       font-weight: bolder;
+       font-size: 25px;
+}
+textarea{
+    width: 80%;
+    padding: 30px;
+    border: double 4px black;
+    background-color: rgb(245, 242, 237);
+    border-radius: 10px;
+}
+.result{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.total{
+    color: blue;
+    font-family: cursive;
+}
+.p2{
+    font-family: cursive;
+    color: gray;
+}
+.remaining{
+    color:  orangered;
+}
